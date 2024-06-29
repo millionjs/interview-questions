@@ -27,3 +27,8 @@
 - We will create a GitHub repository for you, please work within the specified repository.
 - If time permits, feel free to add any features that would be appropriate for this extension.
 - Maximum 14 days, you can finish early if you finish early. You can push commits at any time during these 14 days. Unless there are special circumstances, this task will end after 14 days, regardless of completion status.
+
+## Bonus
+
+- Save snippets to a server
+- Create a Slack bot that has the same functionality as the extension (Add Snippet, Snippet List, Edit Snippet, Delete Snippet, Insert Snippet)
