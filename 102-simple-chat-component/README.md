@@ -2,35 +2,34 @@
 
 ## Functionality
 
-1. There needs to be a Textarea for prompts and a send/stop button.
-2. There needs to be a chat container that displays the conversation history.
-3. There needs to be a `/agent` api to handle requests.
-4. Each conversation's data needs to be persistently stored.
-5. All results should be returned via stream.
+1. Include a Textarea for prompts and a send/stop button.
+2. Implement a chat container to display the conversation history.
+3. Develop a `/agent` API to handle requests.
+4. Ensure each conversation's data is persistently stored.
+5. Return all results via streaming.
 
 ## Advanced
 
-Advanced content is optional and not mandatory.
+The following advanced features are optional:
 
-1. Improve the chat component, support markdown rendering, support autoscroll, support uploading images, etc.
-2. Support function calls, you can create a simple function call feature, such as: getting the current time.
-3. If you are very interested in this, you can try to implement any feature of [Same](https://same.new), and implement what you think a simple same needs in terms of features.
+1. Enhance the chat component to support markdown rendering, autoscroll, and image uploads.
+2. Implement function calls, such as retrieving the current time.
+3. If interested, try to implement any feature from [Same](https://same.new) that you think a simple version would need.
 
 ## Technical Requirements
 
-- The basic tech stack is [TypeScript](https://www.typescriptlang.org/) / [NextJs](https://nextjs.org/) / [Hono](https://hono.dev/) / [DrizzleORM](https://orm.drizzle.team/) / [AI SDK](https://sdk.vercel.ai/).
+- The basic tech stack includes [TypeScript](https://www.typescriptlang.org/), [NextJs](https://nextjs.org/), [Hono](https://hono.dev/), [DrizzleORM](https://orm.drizzle.team/), and [AI SDK](https://sdk.vercel.ai/).
 - Use [Shadcn UI](https://ui.shadcn.com/) for components.
 - Use [TailwindCSS](https://tailwindcss.com/) for styling.
-- Use [nextjs app router](https://nextjs.org/docs/app) + [hono](https://hono.dev/) for the api.
-- Use [DrizzleORM](https://orm.drizzle.team/) for database.
-- Use [Vercel AI SDK](https://sdk.vercel.ai/) for model calling.
+- Utilize the [Next.js app router](https://nextjs.org/docs/app) and [Hono](https://hono.dev/) for the API.
+- Employ [DrizzleORM](https://orm.drizzle.team/) for database management.
+- Leverage the [Vercel AI SDK](https://sdk.vercel.ai/) for model integration.
 
 ## Notes
 
-- Estimated time 4 hours.
-- We will provide a GitHub repository, please complete development in the repository. We won't provide any help other than creating the repository.
-- You can use any libraries you prefer to implement the above features.
-- Keep the code clean, you may choose to use [ESLint](https://eslint.org/) / [Prettier](https://prettier.io/) / [Biome](https://biomejs.dev/), or any other code formatter.
-- Ensure commit messages are clear and use English.
-- We will create a GitHub repository for you, please work within the specified repository.
-- If time permits, feel free to add any features that would be appropriate for this extension.
+- The estimated time to complete the work is 4 hours.
+- A GitHub repository will be provided for development. Please complete the work within this repository. No additional help will be provided beyond creating the repository.
+- You may use any libraries you prefer to implement the features mentioned above.
+- Maintain clean code by using tools like [ESLint](https://eslint.org/), [Prettier](https://prettier.io/), or [Biome](https://biomejs.dev/).
+- Ensure commit messages are clear and written in English.
+- If time allows, feel free to add any features that would enhance this extension.
