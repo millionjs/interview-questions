@@ -27,7 +27,8 @@ Advanced content is optional and not mandatory.
 
 ## Notes
 
-- Please build this repo from scratch, we will not help you set up the project.
+- Estimated time 4 hours.
+- We will provide a GitHub repository, please complete development in the repository. We won't provide any help other than creating the repository.
 - You can use any libraries you prefer to implement the above features.
 - Keep the code clean, you may choose to use [ESLint](https://eslint.org/) / [Prettier](https://prettier.io/) / [Biome](https://biomejs.dev/), or any other code formatter.
 - Ensure commit messages are clear and use English.
