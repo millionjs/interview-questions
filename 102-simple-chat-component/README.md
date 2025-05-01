@@ -30,6 +30,6 @@ The following advanced features are optional:
 - The estimated time to complete the work is 4 hours.
 - A GitHub repository will be provided for development. Please complete the work within this repository. No additional help will be provided beyond creating the repository.
 - You may use any libraries you prefer to implement the features mentioned above.
-- Maintain clean code by using tools like [ESLint](https://eslint.org/), [Prettier](https://prettier.io/), or [Biome](https://biomejs.dev/).
-- Ensure commit messages are clear and written in English.
-- If time allows, feel free to add any features that would enhance this extension.
+- Follow clean code practices (e.g., [ESLint](https://eslint.org/), [Prettier](https://prettier.io/), or [Biome](https://biomejs.dev/)).
+- All commit messages must be in English.
+- If time allows, feel free to add any features that would enhance this implementation.
