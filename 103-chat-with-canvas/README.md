@@ -1,3 +1,5 @@
+https://same-hq.notion.site/take-home
+
 # Chat With Canvas
 
 ## Functionality
