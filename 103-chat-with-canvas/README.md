@@ -26,7 +26,7 @@ The following advanced features are optional:
 2. Implement function calls, such as retrieving the current time.
 3. Allow multiple files to be combined and rendered via React.
 4. Add Python code execution.
-5. If interested, try to implement any feature from Same (https://same.new/) that you think a simple version would need.
+5. If interested, try to implement any feature from [Same](https://same.new/) that you think a simple version would need.
 
 ## Technical Requirements
 
